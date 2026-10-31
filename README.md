@@ -23,6 +23,16 @@ The primary objective is to demonstrate how restrictive network access controls,
 | Nmap | Network connectivity and service validation |
 | grep and awk | Security log filtering and field extraction |
 
+## Project Documentation
+
+| Document | Description |
+|---|---|
+| [Network Architecture](docs/architecture.md) | Logical topology, IP addressing, network interfaces, and security boundaries. |
+| [Security Validation Report](docs/security-validation.md) | Firewall policy testing, SSH hardening validation, and authentication monitoring evidence. |
+| [Engineering Lab Journal](docs/lab-journal.md) | Chronological implementation, troubleshooting, test results, and current project status. |
+
+For detailed configurations and supporting evidence, refer to the documents above.
+
 ## Network Architecture
 
 ```text
